@@ -58,9 +58,9 @@ if (!window.Promise)
 			el: "#check_register",
 			data: {
 				company_name: '上海科技大学',
-				user_name: '王子鑫',
-				user_tel: '18621852028',
-				user_date: '2020-06-01',
+				user_name: '刘立尔',
+				user_tel: '18964707255',
+				user_date: '2020-12-31',
 				car_number: '',
 				userId: 'K5457AU0786G3KYCITCI',
 			},
